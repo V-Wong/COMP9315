@@ -6,3 +6,4 @@
 
 ## Storage
 - [System Catalogs](storage/catalogs.md)
+- [Storage Management](storage/storage_management.md)
