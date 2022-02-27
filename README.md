@@ -8,3 +8,4 @@
 - [System Catalogs](storage/catalogs.md)
 - [Storage Management](storage/storage_management.md)
 - [File Management](storage/file_management.md)
+- [PostgreSQL File Manager](storage/pg_file_manager.md)
