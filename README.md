@@ -11,3 +11,4 @@
 - [PostgreSQL File Manager](storage/pg_file_manager.md)
 - [Buffer Pool](storage/buffer_pool.md)
 - [PostgreSQL Buffer Manager](storage/pg_buffer_manager.md)
+- [Page Internal Structure](storage/page_internals.md)
