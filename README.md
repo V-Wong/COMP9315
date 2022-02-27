@@ -12,3 +12,4 @@
 - [Buffer Pool](storage/buffer_pool.md)
 - [PostgreSQL Buffer Manager](storage/pg_buffer_manager.md)
 - [Page Internal Structure](storage/page_internals.md)
+- [PostgreSQL Page Internal Structure](storage/pg_page_internals.md)
