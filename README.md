@@ -15,3 +15,6 @@
 - [PostgreSQL Page Internal Structure](storage/pg_page_internals.md)
 - [Tuple Representation](storage/tuple_representation.md)
 - [PostgreSQL Tuple Representation](storage/pg_tuples.md)
+
+## Relational Operations
+- [Cost Model](relational_operations/cost_models.md)
