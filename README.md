@@ -18,3 +18,4 @@
 
 ## Relational Operations
 - [Cost Model](relational_operations/cost_models.md)
+- [Scanning](relational_operations/scanning.md)
