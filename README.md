@@ -21,3 +21,4 @@
 - [Scanning](relational_operations/scanning.md)
 - [Sorting](relational_operations/sorting.md)
 - [Projection](relational_operations/projection.md)
+- [Heap File Operations](relational_operations/heap_files.md)
