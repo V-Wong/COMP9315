@@ -23,3 +23,4 @@
 - [Projection](relational_operations/projection.md)
 - [Heap File Operations](relational_operations/heap_files.md)
 - [Sorted File Operations](relational_operations/sorted_files.md)
+- [Hashed File Operations](relational_operations/hashed_files.md)
