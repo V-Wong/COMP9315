@@ -29,3 +29,4 @@
 ## Indexing
 - [Indexing Overview](indexing/overview.md)
 - [B-Tree Indexing](indexing/btrees.md)
+- [Multi-dimensional Search Tree Indexing](indexing/multi_dimensional_search_trees.md)
