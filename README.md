@@ -28,3 +28,4 @@
 
 ## Indexing
 - [Indexing Overview](indexing/overview.md)
+- [B-Tree Indexing](indexing/btrees.md)
