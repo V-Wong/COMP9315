@@ -34,3 +34,6 @@
 - [Signature-based Indexing](indexing/signature_based_indexing.md)
 - [Superimposed Codeword Indexing](indexing/simc.md)
 - [Concatenated Codeword Indexing](indexing/catc.md)
+
+## Join Implementations
+- [Nested Loop Join](join_implementations/nested_loop_join.md)
