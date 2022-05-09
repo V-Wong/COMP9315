@@ -37,3 +37,4 @@
 
 ## Join Implementations
 - [Nested Loop Join](join_implementations/nested_loop_join.md)
+- [Sort-merge Join](join_implementations/sort_merge_join.md)
