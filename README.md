@@ -39,3 +39,6 @@
 - [Nested Loop Join](join_implementations/nested_loop_join.md)
 - [Sort-merge Join](join_implementations/sort_merge_join.md)
 - [Hash Join](join_implementations/hash_join.md)
+
+## Query Processing
+- [Query Processing Overview](query_processing/overview.md)
