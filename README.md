@@ -50,3 +50,4 @@
 
 ## Transactions
 - [Transaction Processing](transactions/transaction_processing.md)
+- [Schedule Properties](transactions/schedule_properties.md)
