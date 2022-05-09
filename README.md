@@ -46,3 +46,4 @@
 - [Query Optimisation](query_processing/query_optimisation.md)
 - [Cost Estimation](query_processing/cost_estimation.md)
 - [Query Execution](query_processing/query_execution.md)
+- [Query Performance Tuning](query_processing/performance_tuning.md)
