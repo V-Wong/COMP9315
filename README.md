@@ -32,3 +32,4 @@
 - [Multi-dimensional Search Tree Indexing](indexing/multi_dimensional_search_trees.md)
 - [Multi-dimensional Hash Indexing](indexing/multi_dimensional_hashing.md)
 - [Signature-based Indexing](indexing/signature_based_indexing.md)
+- [Superimposed Codeword Indexing](indexing/simc.md)
