@@ -43,3 +43,4 @@
 ## Query Processing
 - [Query Processing Overview](query_processing/overview.md)
 - [Query Translation](query_processing/query_translation.md)
+- [Query Optimisation](query_processing/query_optimisation.md)
