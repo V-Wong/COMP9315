@@ -52,3 +52,4 @@
 - [Transaction Processing](transactions/transaction_processing.md)
 - [Schedule Properties](transactions/schedule_properties.md)
 - [Transaction Isolation](transactions/transaction_isolation.md)
+- [Lock-based Concurrency Control](transactions/lock_based_concurrency.md)
