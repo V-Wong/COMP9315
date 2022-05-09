@@ -33,3 +33,4 @@
 - [Multi-dimensional Hash Indexing](indexing/multi_dimensional_hashing.md)
 - [Signature-based Indexing](indexing/signature_based_indexing.md)
 - [Superimposed Codeword Indexing](indexing/simc.md)
+- [Concatenated Codeword Indexing](indexing/catc.md)
